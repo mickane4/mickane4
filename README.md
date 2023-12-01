@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @mickane4
-- 👀 I’m interested in sharing building a public portfolio to share my hard work with the public.
-- 🌱 I’m currently researching and developing methods of integrating Azure services into Unity3D.
